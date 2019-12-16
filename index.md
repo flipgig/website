@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Flip Gig!
+[logo]: https://github.com/flipgig/website/src/common/images/flipgig-logo.png "Logo Title Text 2"
 
 You can use the [editor on GitHub](https://github.com/flipgig/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
