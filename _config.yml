@@ -1,6 +1,6 @@
 # Site settings
 title: Flip Gig - An EPSRC funded Project
-description: The project site for the EPSRC funded project Flip Gig
+description: The digital economy (e.g. online shopping) is growing rapidly - already £50bn in 2016 - which is radically transforming the high street. It is estimated that approximately 220,000 vans are operating in London on a typical weekday with approximately 5% (11,000) engaged in parcel collection and delivery. With new `try before you by' clothing services such as ASOS and Amazon Prime Wardrobe, where any number of clothing items can be ordered for home delivery, and returned 'for free', the true environmental costs are spiralling out of control. Freight transport already accounts for 16% of all motorised road vehicle activity in British towns and cities, typically burning fossil fuels and accounting for 23%, 36% and 39% of total road-based CO2, NOx and PM10 emissions respectively!
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 #logo: "/src/img/flipgig-logo.png"
