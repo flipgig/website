@@ -3,7 +3,7 @@ title: Flip Gig - An EPSRC funded Project
 description: The project site for the EPSRC funded project Flip Gig
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-logo: "/src/img/flipgig-logo.png"
+#logo: "/src/img/flipgig-logo.png"
 # User settings
 username: Flip Gig
 user_description: Digitally transforming deliveries and collections in the gig-economy: fairer and more sustainable last mile parcel logistics.
